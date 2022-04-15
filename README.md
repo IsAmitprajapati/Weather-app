@@ -10,3 +10,5 @@ In this if Enter the the city name and using the openweather api it get fetch th
 
 Thanks you for Reading.
 
+link :  https://weatherapp-amit.netlify.app/
+
