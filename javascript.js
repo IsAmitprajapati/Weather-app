@@ -66,12 +66,6 @@ Weatherapp_search_Input.addEventListener("change",()=>{
 
 
     realsss();
-/*
-    realsss();
-    console.log("data");
-    console.log(Weatherapp_Name_City);
-    console.log(Weatherapp_Temp);
-    console.log();*/
 });
 
 
@@ -144,8 +138,6 @@ function realsss(){
 
         WeatherLastSeenList_V.appendChild(WeatherLastSeen_tempandIcon_V);
 
-                
-
                 let WeatherLastSeen_WeatherTemp_V = document.createElement("div");
                 WeatherLastSeen_WeatherTemp_V.className = 'WeatherLastSeen_WeatherTemp';
                // =Weatherapp_Temp_LastSeent;
@@ -175,9 +167,6 @@ function realsss(){
                         });
 
                         WeatherLastSeen_icon_V.appendChild(WeatherLastSeen_icon_V_Image);
-
-                        
-    console.log("amitsssssssssss");
 }  
 
 /****************choiceColor */

@@ -1,19 +1,14 @@
-/*@import url(MobileStyle.css);*/
+
 *{
     padding:0;
     margin:0;
 }
 body{
     background-color: #efe9f4;
-    /*background-image: url('background.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 100%;
-    height: 100%;
-    background-blend-mode:darken;*/
+    
 }
 .weatherapp{
-    /*background-color: #efe9f4/*rgb(238,237,243);*/
+    
     height: 700px;
     display: flex;
     flex-direction: column;
@@ -24,7 +19,7 @@ body{
 .Weatherapp_search_Container{
     height: 70px;
     width: 100%;
-    /*background-color: red;*/
+    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -32,7 +27,7 @@ body{
 .Weatherapp_search{
     width: 400px;
     height: 50px;
-    /*background-color: blue;*/
+    
     padding:0px 20px;
     border-radius: 45px;
     display: flex;
